@@ -11,6 +11,6 @@ public class Triangle {
 		
 		boolean isTriangle = (sum1 > side3) && (sum2 > side2) && (sum3 > side1);
 		
-		System.out.println(side1 + " , " + side2 + " , " + side3 + ": " + isTriangle);
+		System.out.println(side1 + ", " + side2 + ", " + side3 + ": " + isTriangle);
 	}
 }
